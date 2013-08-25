@@ -18,7 +18,7 @@ public class ReusableMethods
 	private void myPrivateMethod()
 	{
 		System.out.println("This is Private Method");
-		//private hides from other classes within the package. public exposes to classes outside the package. protected is a version of public restricted only to subclasses
+		///private hides from other classes within the package. public exposes to classes outside the package. protected is a version of public restricted only to subclasses
 	}
 
 }
